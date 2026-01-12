@@ -1,1 +1,17 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+        <meta charset="utf-8">
+        <title>Tiêu đề của trang web</title>
+</head>
+<body>
+    <h1> Đây là phần đầu của trang web</h1>
+    <p>Hoten:Hoang Phat</p>
+    <h2>BaiF1</h2>
+    <p><a href="D:\12A14 Tran Hoang Phat\BaiF1\h3.html">h3</a></p>
+    <p><a href="D:\12A14 Tran Hoang Phat\BaiF1\h4.html">h4</a></p>
+    <p><a href="D:\12A14 Tran Hoang Phat\BaiF1\h5.html">h5</a></p>
+    <p><a href="D:\12A14 Tran Hoang Phat\BaiF1\h6.html">h6</a></p>
+    <p><a href="D:\12A14 Tran Hoang Phat\BaiF1\h7.html">h7</a></p>
+</body>
+</html>
